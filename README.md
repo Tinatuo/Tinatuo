@@ -1,6 +1,7 @@
+<img src="https://img.freepik.com/premium-photo/abstract-purple-binary-code-background_684882-1149.jpg" alt="Image alt text" height="300" width="5000" >
 <h1 align="center">Hi 👋, I'm Tina Jouzdani</h1>
 <h3 align="center">I am a computer engineering student at the University of Isfahan</h3>
-<img align="right" alt="coding" width="400" src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/2/7/4/274d40f45b3f56a908c194f494eec2319ca3063b.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tinatuo&label=Profile%20views&color=0e75b6&style=flat" alt="tinatuo" /> </p>
 
