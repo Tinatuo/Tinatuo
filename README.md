@@ -31,7 +31,7 @@
          alt="LinkedIn" width="32" height="32"/>
   </a>
 </p>
-p>
+
 
 
 ---
