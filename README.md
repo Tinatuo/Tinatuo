@@ -15,7 +15,7 @@
 ---
 
 ### 🌱 About Me  
-- 🚀 Currently learning **Java, C++ & Python**  
+- 🚀 Currently learning **Python & ِ Django**  
 - 📫 Reach me at: **tinajouzdani@gmail.com**  
 
 ---
