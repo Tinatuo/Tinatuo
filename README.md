@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hi there, I'm Tina 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi%20There,%20I'm%20Tina%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20AI%20%26%20Security%20Enthusiast&descAlignY=58&descSize=18"/>
 
-### Computer Engineering Student | Networks & Security | Exploring AI
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=A594F9&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Networks+%26+Security+Branch;Exploring+AI+%2F+Machine+Learning;Django+Developer+%7C+Learning+Spring+Boot" alt="Typing SVG" />
+</a>
 
 </div>
 
