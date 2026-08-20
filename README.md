@@ -1,13 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=A594F9&center=true&vCenter=true&width=800&lines=Hi+There,+I'm+Tina+👋;Computer+Engineering+Student;AI+%26+Cyber+Security+Enthusiast;Django+Developer+%7C+Learning+Spring+Boot"/>
 
-<br/>
-
-<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Security%20%7C%20Backend-A594F9?style=for-the-badge"/>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=A594F9&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Networks+%26+Security+Branch;Exploring+AI+%2F+Machine+Learning;Django+Developer+%7C+Learning+Spring+Boot" alt="Typing SVG" />
+</a>
 
 </div>
-
 
 <br/>
 
