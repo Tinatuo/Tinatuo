@@ -106,13 +106,7 @@
 
 Spotify-inspired music player developed for Advanced Programming course.
 
-
 <br/>
-
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/OOP-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Desktop%20Application-302B63?style=flat-square"/>
 
 <a href="https://github.com/UI-AP-2024/firstproject-musicplayer-phase2-Spotify">
 
@@ -121,6 +115,13 @@ Spotify-inspired music player developed for Advanced Programming course.
 
 
 </a>
+<br/>
+
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/OOP-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Desktop%20Application-302B63?style=flat-square"/>
+
 
 
 </div>
