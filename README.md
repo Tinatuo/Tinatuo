@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi%20There,%20I'm%20Tina%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20AI%20%26%20Security%20Enthusiast&descAlignY=58&descSize=18"/>
+<img src="https://images.weserv.nl/?url=https%3A%2F%2Fcapsule-render.vercel.app%2Fapi%3Ftype%3Dwaving%26color%3D0%3A0f0c29%2C50%3A302b63%2C100%3A24243e%26height%3D220%26section%3Dheader%26text%3DHi%2520There%2C%2520I%27m%2520Tina%2520%25F0%259F%2591%258B%26fontSize%3D42%26fontColor%3Dffffff%26animation%3DfadeIn%26fontAlignY%3D38%26desc%3DComputer%2520Engineering%2520Student%2520%257C%2520AI%2520%2526%2520Security%2520Enthusiast%26descAlignY%3D58%26descSize%3D18"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=A594F9&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Networks+%26+Security+Branch;Exploring+AI+%2F+Machine+Learning;Django+Developer+%7C+Learning+Spring+Boot" alt="Typing SVG" />
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Freadme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26size%3D24%26duration%3D3000%26pause%3D800%26color%3DA594F9%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DComputer%2BEngineering%2BStudent%3BNetworks%2B%2526%2BSecurity%2BBranch%3BExploring%2BAI%2B%252F%2BMachine%2BLearning%3BDjango%2BDeveloper%2B%257C%2BLearning%2BSpring%2BBoot" alt="Typing SVG" />
 </a>
 
 </div>
@@ -53,9 +53,12 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/Tinatuo?style=for-the-badge&color=A594F9&labelColor=0d1117"/>
-<img src="https://img.shields.io/github/stars/Tinatuo?style=for-the-badge&color=A594F9&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=A594F9&labelColor=0d1117&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FTinatuo"/>
+<img height="165" src="https://images.weserv.nl/?url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3DTinatuo%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3DA594F9%26icon_color%3DA594F9%26text_color%3Dc9d1d9"/>
+<img height="165" src="https://images.weserv.nl/?url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%2Ftop-langs%2F%3Fusername%3DTinatuo%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3DA594F9%26text_color%3Dc9d1d9"/>
+
+<img src="https://images.weserv.nl/?url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3DTinatuo%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0d1117%26ring%3DA594F9%26fire%3DA594F9%26currStreakLabel%3DA594F9"/>
+
+<img src="https://images.weserv.nl/?url=https%3A%2F%2Fgithub-readme-activity-graph.vercel.app%2Fgraph%3Fusername%3DTinatuo%26theme%3Dtokyo-night%26hide_border%3Dtrue%26bg_color%3D0d1117%26color%3DA594F9%26line%3DA594F9%26point%3Dffffff"/>
 
 </div>
 
@@ -65,11 +68,11 @@
 
 <div align="center">
 
-### 🎵 [Music Player (Spotify-style)](https://github.com/UI-AP-2024/firstproject-musicplayer-phase2-Spotify)
+<a href="https://github.com/UI-AP-2024/firstproject-musicplayer-phase2-Spotify">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%2Fpin%2F%3Fusername%3DUI-AP-2024%26repo%3Dfirstproject-musicplayer-phase2-Spotify%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3DA594F9%26text_color%3Dc9d1d9"/>
+</a>
 
-A phase-2 project built as part of the Advanced Programming course, implementing a Spotify-inspired music player.
-
-<img src="https://img.shields.io/badge/View%20Repository-A594F9?style=for-the-badge&logo=github&logoColor=0d1117"/>
+**🎵 Music Player (Spotify-style)** — A phase-2 project built as part of the Advanced Programming course, implementing a Spotify-inspired music player.
 
 </div>
 
@@ -90,6 +93,6 @@ A phase-2 project built as part of the Advanced Programming course, implementing
 
 <br/>
 
----
+<img src="https://images.weserv.nl/?url=https%3A%2F%2Fcapsule-render.vercel.app%2Fapi%3Ftype%3Dwaving%26color%3D0%3A24243e%2C50%3A302b63%2C100%3A0f0c29%26height%3D100%26section%3Dfooter"/>
 
 </div>
