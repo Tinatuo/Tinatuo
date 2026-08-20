@@ -98,15 +98,6 @@
 <div align="center">
 
 
-<a href="https://github.com/UI-AP-2024/firstproject-musicplayer-phase2-Spotify">
-
-
-<img src="https://img.shields.io/badge/🎵%20Music%20Player-Spotify%20Style-A594F9?style=for-the-badge"/>
-
-
-</a>
-
-
 <br/><br/>
 
 
@@ -122,6 +113,14 @@ Spotify-inspired music player developed for Advanced Programming course.
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/OOP-8A2BE2?style=flat-square"/>
 <img src="https://img.shields.io/badge/Desktop%20Application-302B63?style=flat-square"/>
+
+<a href="https://github.com/UI-AP-2024/firstproject-musicplayer-phase2-Spotify">
+
+
+<img src="https://img.shields.io/badge/🎵%20Music%20Player-Spotify%20Style-A594F9?style=for-the-badge"/>
+
+
+</a>
 
 
 </div>
@@ -159,5 +158,9 @@ Spotify-inspired music player developed for Advanced Programming course.
 <div align="center">
 
 ⭐ Thanks for visiting my profile ⭐
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
 
 </div>
