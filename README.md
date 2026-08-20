@@ -116,6 +116,7 @@ Spotify-inspired music player developed for Advanced Programming course.
 
 </a>
 <br/>
+<br/>
 
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
