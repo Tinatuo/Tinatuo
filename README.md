@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi%20There,%20I'm%20Tina%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20AI%20%26%20Security%20Enthusiast&descAlignY=58&descSize=18"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=A594F9&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Networks+%26+Security+Branch;Exploring+AI+%2F+Machine+Learning;Django+Developer+%7C+Learning+Spring+Boot" alt="Typing SVG" />
-</a>
+### Computer Engineering Student | Networks & Security | Exploring AI
+
+
 
 </div>
 
@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 ### Frameworks & Tools
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -53,12 +53,9 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tinatuo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A594F9&icon_color=A594F9&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tinatuo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A594F9&text_color=c9d1d9"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tinatuo&theme=tokyonight&hide_border=true&background=0d1117&ring=A594F9&fire=A594F9&currStreakLabel=A594F9"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tinatuo&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A594F9&line=A594F9&point=ffffff"/>
+<img src="https://img.shields.io/github/followers/Tinatuo?style=for-the-badge&color=A594F9&labelColor=0d1117"/>
+<img src="https://img.shields.io/github/stars/Tinatuo?style=for-the-badge&color=A594F9&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=A594F9&labelColor=0d1117&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FTinatuo"/>
 
 </div>
 
@@ -68,11 +65,11 @@
 
 <div align="center">
 
-<a href="https://github.com/UI-AP-2024/firstproject-musicplayer-phase2-Spotify">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=UI-AP-2024&repo=firstproject-musicplayer-phase2-Spotify&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A594F9&text_color=c9d1d9"/>
-</a>
+### 🎵 [Music Player (Spotify-style)](https://github.com/UI-AP-2024/firstproject-musicplayer-phase2-Spotify)
 
-**🎵 Music Player (Spotify-style)** — A phase-2 project built as part of the Advanced Programming course, implementing a Spotify-inspired music player.
+A phase-2 project built as part of the Advanced Programming course, implementing a Spotify-inspired music player.
+
+<img src="https://img.shields.io/badge/View%20Repository-A594F9?style=for-the-badge&logo=github&logoColor=0d1117"/>
 
 </div>
 
