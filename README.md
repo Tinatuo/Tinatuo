@@ -1,20 +1,25 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=A594F9&center=true&vCenter=true&width=750&lines=Hi+There,+I'm+Tina+👋;Computer+Engineering+Student;AI+%26+Security+Enthusiast;Django+Developer+%7C+Learning+Spring+Boot"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=A594F9&center=true&vCenter=true&width=800&lines=Hi+There,+I'm+Tina+👋;Computer+Engineering+Student;AI+%26+Cyber+Security+Enthusiast;Django+Developer+%7C+Learning+Spring+Boot"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Security%20%7C%20Backend-A594F9?style=for-the-badge"/>
 
 </div>
+
 
 <br/>
 
 
-## 🧠 About Me
+# 🧠 About Me
 
 - 🎓 Computer Engineering student focused on **Networks & Security**
 - 🔐 Interested in **Cyber Security, Artificial Intelligence and Machine Learning**
 - 🤖 Exploring AI algorithms, optimization methods and intelligent systems
-- 🌐 Building backend applications with **Django**
-- ☕ Currently learning **Spring Boot**
-- ⚙️ Love connecting theory with practical projects
+- 🌐 Building backend applications using **Django**
+- ☕ Learning **Spring Boot** and Java backend ecosystem
+- ⚙️ Interested in algorithms, backend systems and practical projects
 - 💬 Open to collaboration on AI, Backend and Security projects
 
 
@@ -27,7 +32,7 @@
 <div align="center">
 
 
-### Languages
+## Languages
 
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -42,7 +47,7 @@
 <br/>
 
 
-### Frameworks & Tools
+## Frameworks & Tools
 
 
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -54,7 +59,7 @@
 <br/>
 
 
-### Interests
+## Interests
 
 
 <img src="https://img.shields.io/badge/Machine%20Learning-purple?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -74,7 +79,7 @@
 <div align="center">
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tinatuo&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A594F9&line=A594F9&point=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tinatuo&theme=tokyo-night&hide_border=true&area=true&color=A594F9&line=A594F9"/>
 
 
 <br/><br/>
@@ -107,10 +112,18 @@
 <br/><br/>
 
 
-### 🎵 Music Player (Spotify Style)
+## 🎵 Music Player
 
 
-Spotify inspired music player developed for Advanced Programming course.
+Spotify-inspired music player developed for Advanced Programming course.
+
+
+<br/>
+
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/OOP-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Desktop%20Application-302B63?style=flat-square"/>
 
 
 </div>
